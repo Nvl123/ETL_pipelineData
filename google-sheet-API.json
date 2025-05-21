@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "potent-catwalk-443606-a2",
-  "private_key_id": "7785d056c8fa3a5bd1523062e6e96edc8adda233",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIyNyh5dXQ0qei\nQDD1izI7K2o4d3OWXphTMzZtuA3K35SMmJWIBxwE2Vd5eV3nUxbL5vMaHl3opH1h\nGvnWTD8Bx+K589HHs9WCcFqecZRV3AWpSaOe200mIFUlsZPgYrgBBcbAuJBsHh6B\nOj6O2GAotTYaNd7fp/CSC3Ew2ydowKBy+XQM7VYQ5QC0gAIQlTtSdvOCTMiTRnQA\nsA87NNe3qfd6qXXIVhJdcezhEW3ImJ8lANG1fVuTozTGjAY2Y0AeAw8dX13lJA0W\nvizlAgRmydii1V9KjSQJWF+b6prf/1KY3Rrno0SOqt2vnovGdEK3HewuG6DbyrRV\n6R1K2NlrAgMBAAECggEAITiWxNTN5WDNarubPi1bUM30o8Yj4lfhdTauhUXkRlJq\n9j5S03B1stmxLwClSF6HkZIzW/l1SUZaFmSLvOjdrfJAMctFRPkc1Rm47KlXRUOD\nzkhIYcLgR3QnEncIxCIhVs35Xi7LepAbNP+JlUH42xNskbajGzdixw9MmaxRH3Qg\nakevvLK4Ox2EQw1aL86jL8K0lnHUNd72Z4fXZONNs4vxc2rQoTMG8CAQeV2646eb\nJ+xleZT46iUGRZ0FocAecYYf75qMlw83NkFc6TswcZrnRt1nzCeGjdpUESU2eXhf\n4H2SdK0ycaq7q823pAQ699PkY5ZqEHFUX3fnWwCwOQKBgQD3Ivg5qVjL1FcrIPXr\nY3ZWaabvLaDIpoM06/zG3/jNc5QCCjnWWX2+U18DgBrwHqp+MV7rb1p0OisTySdZ\nnTH20yJD3tSOfgC7My5FGzPvXWQeKGMa2F6tGVXTN48mp6wGvpG2+qDSiowt0ezc\nS8/Vj8THmOY9fyeFWcImfp6DEwKBgQDP/FJYzLLX46BYqVnfyE9l8dhs17CZh5Jz\n5LvOn/1tjjaiFJqi9k676eUw8y2QUTuUzGfNFYcHJcSQUB9pnUVZWtL41sVa3kKD\nIx1gSNElrIBHc2gcoPFKLbCzASi3W80Goqx+a62OyVGFKDqm82pKYHj5WBov+yj0\nTHlWsrrDSQKBgDMIQJO/mXt1nI5mXwG9ZylO5c7L8ECeycc619bFVx4tuKl3LRxL\nHIEZvCv/3xAodPJcBYq+UsJfZJfQWNTTdgbO8Gttbx0BfesqFWrlxCKweUUU9+oK\nNfqumZ9lAKVtyEMYRQSw2la/j1TC3ZNcAE3MQ0koFJssT5/kugey686LAoGBAJb4\n/X1f+WIk5Tv2kjqS2K+Tghpf5t1LP8/IdVtjXz6rQJUeh7FLQZO+EJQbsTNVA/7a\n8W449i8GB00KHAM6GiDmgMYIgHGZbIZscuJ1ePvz35n999DwMrY5vE3zxW5zwLvU\nUYni97TyBa62qPyPLNSYerfkb/3sPqo26M06J7+hAoGAQrSgN3xVJ8BHT58vgol3\n6X4hHEEYriBpg3m9UULpgmvwoR8qEfPLtXmmsdFFRKrIsiMsbt2/js/fseBan52Y\nEulYh+/XLa0j+bvZspT2VmpB/gPC7Zggx0PzhPIQuvL8i1jl8Xs4IaYqI2EQl0IG\njRvYrSwBA6fjABDR/u/dTMs=\n-----END PRIVATE KEY-----\n",
-  "client_email": "pipeline-submission@potent-catwalk-443606-a2.iam.gserviceaccount.com",
-  "client_id": "116117899405041635747",
+  "project_id": "XXXXXX-XXXXX-XXXX-XX",
+  "private_key_id": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX=\n-----END PRIVATE KEY-----\n",
+  "client_email": "XXXXXXXXXXXXXX@XXXX-XXXXXXX-XXXXXX-XX.XXX.XXXXXXXXXXXXXXXXXXXXX.XXX",
+  "client_id": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pipeline-submission%40potent-catwalk-443606-a2.iam.gserviceaccount.com",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/XXXXXXXX-XXXXXX%XXpXXXt-XXXX-XXXXX6-a2.iam.gserviceaccount.com",
   "universe_domain": "googleapis.com"
 }
